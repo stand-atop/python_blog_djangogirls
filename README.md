@@ -1,2 +1,5 @@
-# python_blog_djangogirls
-python_Django 실습 / https://tutorial.djangogirls.org/ko / Atom, Python v3.8.3, Django v2.0.13, sqlite3
+# python_Django_blog
+
+http://standatop.pythonanywhere.com/ Atom, Python v3.8.3, Django v2.0.13, sqlite3
+
+https://tutorial.djangogirls.org/ko
